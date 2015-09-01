@@ -1,2 +1,2 @@
-# PHPGmaps
-PHP class to work with Google Maps
+# PHPApi
+PHP api classes to work with different api's
