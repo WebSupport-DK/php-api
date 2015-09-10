@@ -4,5 +4,11 @@
         "description": "Simple api's to use with php",
         "require": {
         "php": ">=5.4.0"
+        },
+        ,
+    "autoload": {
+        "psr-4": {
+            "thom855j\\PHPApi\\": "src/"
+            }
         }
 }
