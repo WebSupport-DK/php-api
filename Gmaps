@@ -1,6 +1,6 @@
 <?php
 
-namespace thom855j\PHPApi;
+namespace thom855j\php_api;
 
 class Gmaps
 {
