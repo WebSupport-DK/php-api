@@ -1,0 +1,8 @@
+{
+        "name": "thom855j/php-api",
+        "license": "MIT",
+        "description": "Simple api's to use with php",
+        "require": {
+        "php": ">=5.4.0"
+        }
+}
