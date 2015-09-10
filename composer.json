@@ -1,5 +1,6 @@
 {
         "name": "thom855j/php-api",
+        "version": "dev-master",
         "license": "MIT",
         "description": "Simple api's to use with php",
         "require": {
