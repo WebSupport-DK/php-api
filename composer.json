@@ -1,5 +1,5 @@
 {
-        "name": "thom855j/php-api",
+        "name": "websupport-dk/php-api",
         "version": "dev-master",
         "license": "MIT",
         "description": "Simple api's to use with php",
@@ -9,7 +9,7 @@
         ,
     "autoload": {
         "psr-4": {
-            "thom855j\\PHPApi\\": "src/"
+            "WebSupportDK\\PHPApi\\": "src/"
             }
         }
 }
