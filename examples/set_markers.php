@@ -4,9 +4,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-require_once '../src/Gmaps';
+require_once '../src/Gmaps.php';
 
-use thom855j\PHPApi\Gmaps;
+use Datalaere\PHPApi\Gmaps;
 
 $map = new Gmaps;
 
