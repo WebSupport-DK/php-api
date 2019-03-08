@@ -1,8 +1,10 @@
 {
     "name": "datalaere/php-api",
     "version": "dev-master",
-    "license": "MIT",
+    "type": "library",
     "description": "Simple api's to use with php",
+    "homepage": "https://github.com/datalaere/php-api",
+    "license": "MIT",
     "require": {
         "php": ">=5.5.0"
     },
